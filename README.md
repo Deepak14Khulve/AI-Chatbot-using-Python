@@ -2,10 +2,9 @@
 
 Welcome to the AI Chatbot Project! 
 
-![Live CHATBOT-1](https://www.codingal.com/resources/wp-content/uploads/2024/12/145.png)
-
+![Live CHATBOT-1](https://miro.medium.com/v2/resize:fit:640/format:webp/0*eXgmA-iKFS_SxGCz)
 ## Introduction
-
+(
 In today’s digital world, AI-powered chatbots play an essential role in improving customer service, automating tasks, and providing interactive experiences across various industries such as e-commerce, healthcare, education, and entertainment.
 
 An AI chatbot is a computer program designed to simulate human-like conversation using natural language processing (NLP) and machine learning (ML) techniques. These chatbots can understand user inputs in natural language, process them intelligently, and respond in a conversational manner.
