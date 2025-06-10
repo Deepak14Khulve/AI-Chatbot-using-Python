@@ -1,6 +1,6 @@
-# Chatbot Project
+# AI Chatbot by using Python
 
-Welcome to the Chatbot Project! 🤖
+Welcome to the AI Chatbot Project! 
 
 ## Motivation
 
@@ -11,7 +11,7 @@ My goal is to make technology more accessible and user-friendly, and am excited 
 Feel free to interact with the chatbot, ask questions, and explore its capabilities. I am always looking to improve and enhance its responses, so your feedback is valuable to me.
 Let's chat and learn together!
 
-🚀 Happy Chatting!
+Happy Chatting!
 
 ## Getting Started
 
@@ -74,7 +74,7 @@ I welcome contributions and feedback from the community. If you have suggestions
 
 Enjoy your chatbot interactions!
 
-* ### Hit a Star if you like this project
+
 
 
 
