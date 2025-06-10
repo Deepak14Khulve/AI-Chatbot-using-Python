@@ -10,13 +10,13 @@ An AI chatbot is a computer program designed to simulate human-like conversation
 
 Python is one of the most popular programming languages for building chatbots due to its:
 
-- Simplicity and readability
+- Simplicity and readability.
 
-- Rich ecosystem of NLP and ML libraries
+- Rich ecosystem of NLP and ML libraries.
 
-- Large community support
+- Large community support.
 
-- Integration capabilities with APIs and web services
+- Integration capabilities with APIs and web services.
 
 This project demonstrates how to build an AI chatbot using Python. The chatbot can be as simple as a rule-based system or as advanced as a chatbot powered by state-of-the-art transformer models like GPT (Generative Pretrained Transformer).
 
