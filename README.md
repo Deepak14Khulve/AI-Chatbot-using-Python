@@ -1,7 +1,7 @@
 # AI Chatbot by using Python
 
 Welcome to the AI Chatbot Project! 
-![Uploading image.png…]()
+(https://www.codingal.com/resources/wp-content/uploads/2024/12/145.png)
 
 ## Introduction
 
