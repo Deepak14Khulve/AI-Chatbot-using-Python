@@ -32,7 +32,7 @@ Let's chat and learn together!
 Happy Chatting!
 
 ## Getting Started
-
+![Live CHATBOT-1](https://apkubl.com/wp-content/uploads/2025/03/The-Ultimate-Guide-to-AI-Chatbots-Virtual-Assistant-Apps.jpeg)
 These instructions will guide you through setting up and running the chatbot project on your local machine.
 
 ### Prerequisites
