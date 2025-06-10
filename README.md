@@ -1,6 +1,7 @@
 # AI Chatbot by using Python
 
 Welcome to the AI Chatbot Project! 
+![Uploading image.png…]()
 
 ## Introduction
 
